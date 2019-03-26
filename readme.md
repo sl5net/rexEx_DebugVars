@@ -1,3 +1,5 @@
+# rexEx_DebugVars
+
 # this script is broken. 
 if it is an object, the values ​​are all empty in the TXT-file
 
@@ -65,10 +67,15 @@ fileappend, % "alw##ign:" alw "##" ign "(" A_LineNumber " " RegExReplace(A_LineF
 
 
 # thanks
+# thanks
+# thanks
+# thanks
 
 thanks very much to Lexikos https://github.com/Lexikos/DebugVars.ahk
 
 
+# DebugVars
+# DebugVars
 # DebugVars
 
 DebugVars is a script for AutoHotkey v1.1 which allows users to view and edit variables of other scripts while they are running.
